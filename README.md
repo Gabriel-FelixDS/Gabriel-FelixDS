@@ -16,3 +16,4 @@ Sou uma pessoa que encontra interesse por:
 - Portugol<img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/950e8c6a-432d-4633-aa6b-4328f0027081" />
 
 [![Estatísticas do Github de Gabriel:](https://github-stats-extended.vercel.app/api?username=Gabriel-FelixDS)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Gabriel-FelixDS&layout=donut&langs_count=10&theme=graywhite)](https://github-stats-extended.vercel.app/api/top-langs?username=Gabriel-FelixDS&layout=donut&langs_count=10&theme=graywhite)
