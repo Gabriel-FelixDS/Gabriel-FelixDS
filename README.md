@@ -15,5 +15,5 @@ Sou uma pessoa que encontra interesse por:
 
 - Portugol<img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/950e8c6a-432d-4633-aa6b-4328f0027081" />
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-FelixDS&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Gabriel's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-FelixDS&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Gabriel-FelixDS/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-FelixDS&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Gabriel's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-FelixDS&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
