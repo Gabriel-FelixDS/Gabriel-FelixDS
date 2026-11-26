@@ -11,5 +11,6 @@ Sou uma pessoa que encontra interesse por:
   
 
 ## 🛠 Repertorio de linguagens
-- Python
-- Portugol
+- Python<img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/752bc0b8-a6f0-4edb-abd8-3ffb100e44bd" />
+
+- Portugol<img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/950e8c6a-432d-4633-aa6b-4328f0027081" />
