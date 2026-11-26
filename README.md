@@ -7,7 +7,7 @@ Sou um aluno técnico buscando novos desafios. No momento estou desenvolvendo mi
 Sou uma pessoa que encontra interesse por:
 - 📕 Leitura, alguns favoritos pessoais incluem 1984, Moby Dick e Crime e Castigo
 - 🎮 Vídeo games, são um passatempo divertido meu, o desenvolvimento e as comunidades criadas ao redor deles me fascina
-- 🥼 Biologia e bioquímica,o funcionamento do corpo o humano,principalmente no nível microcelular,sempre me interessou
+- 🥼 Biologia e bioquímica, o funcionamento do corpo o humano, principalmente no nível microcelular, sempre me interessou
   
 
 ## 🛠 Repertorio de linguagens
